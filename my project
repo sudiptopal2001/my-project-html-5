@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Introduction to HTML5</title>
   <meta name="description" content="Introduction to HTML5">
-  <meta name="author" content="salimt">
+  <meta name="author" content="sudipto">
   <style>
 	progress { width: 15%; padding: 3px; border: 0 none; background: #444; border-radius: 14px; }
 	progress::-moz-progress-bar { border-radius: 12px; background: orange; }
@@ -17,7 +17,7 @@
 
 <body>
 	<header>
-		<h1>SALIMT</h1>
+		<h1>SUDIPTO</h1>
 		<nav>
 			<a href="https://www.google.com">One</a>&nbsp;
 			<a href="https://www.google.com">Two</a>&nbsp;
@@ -28,10 +28,10 @@
 	<section id="favFoods">
 		<h2>Favourite Foods</h2>
 		<ul>
-			<li>First</li>
-			<li>Second</li>
-			<li>Third</li>
-			<li>Fourth</li>
+			<li>Mango</li>
+			<li>Pasta</li>
+			<li>Rasgulla</li>
+			<li>Coffe</li>
 		</ul>
 	</section>
 	<section id="achievements">
@@ -40,7 +40,7 @@
 		<progress value="100" max="100"> 100% </progress><br>
 		<label>Progress in the Specialization capstone (20%) </label>
 		<progress value="20" max="100"> 20% </progress><br>
-		<label>Progress in something (67%) </label>
+		<label>Progress in something (60%) </label>
 		<progress value="67" max="100"> 100% </progress><br>
 	</section>
 	<section id="about">
@@ -51,7 +51,7 @@
 		</details>
 	</section>
 	<footer>
-		<img src="http://www.intro-webdesign.com/images/newlogo.png"></img>This page was created by salimt &amp; Colleen van Lent. To learn more about web design, visit <a href="https://www.intro-webdesign.com">Intro to Web Design</a>.
+		<img src="http://www.intro-webdesign.com/images/newlogo.png"></img>This page was created by Sudipto Pal. To learn more about web design, visit <a href="https://www.intro-webdesign.com">Intro to Web Design</a>.
 	</footer>
 </body>
 </html>
