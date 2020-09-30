@@ -50,9 +50,9 @@
 			<summary>My Childhood</summary>
 		  	<p>Project done for University of Michigan's HTML5 course.</p>
 		</details>
-	</section>
+	</section>Design
 	<footer>
-		<img src="http://www.intro-webdesign.com/images/newlogo.png"></img>This page was created by salimt &amp; Colleen van Lent. To learn more about web design, visit <a href="https://www.intro-webdesign.com">Intro to Web Design</a>.
+		<img src="http://www.intro-webdesign.com/images/newlogo.png"></img>This page was created by salimt &amp; Sudipto Pal. </a>.
 	</footer>
 </body>
 </html>
