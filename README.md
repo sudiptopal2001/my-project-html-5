@@ -52,7 +52,7 @@
 		</details>
 	</section>
 	<footer>
-		<img src="http://www.intro-webdesign.com/images/newlogo.png"></img>This page was created by Sudipto Pal. </a>.
+		<img src="http://www.intro-webdesign.com/images/newlogo.png"></img>This page was created by Sudipto Pal & Colleen van Lent. </a>.
 	</footer>
 </body>
 </html>
